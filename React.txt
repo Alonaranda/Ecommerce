@@ -1,0 +1,17 @@
+Repaso de React UI
+
+Crear una aplicación React:
+`npx create-react-app mi-primera-app`
+
+
+```
+import React from 'react'
+
+export const Component = () => {
+    return (
+        <>
+            
+        </>
+    )
+}
+```
