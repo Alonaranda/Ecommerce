@@ -1,0 +1,5 @@
+NEXT JS -> Framework
+
+React crea Single Page Application
+
+NextJS crea Server Side Rendering con Lazy Loading y su propio Routing

@@ -15,3 +15,8 @@ export const Component = () => {
     )
 }
 ```
+
+
+NEXT JS -> Framework
+Single Page Application = React 
+Server Side Rendering, Lazy Loading, Routing = NextJS 
