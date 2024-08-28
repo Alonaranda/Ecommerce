@@ -3,3 +3,18 @@ NEXT JS -> Framework
 React crea Single Page Application
 
 NextJS crea Server Side Rendering con Lazy Loading y su propio Routing
+
+
+Server Side Rendering:
+- Client Side Rendering CSR: Navegador del usuario, se encarga de generar los HTML
+- Server Side Rendering SSR: Renderización en el servidor 
+
+Ventajas SSR:
+- Mayor velocidad
+- SEO 
+
+Crear una app NEXT Js:
+https://nextjs.org/docs/getting-started/installation
+
+npx create-next-app name
+
